@@ -1,0 +1,5 @@
+$appBackgroundColor: 'white';
+
+$grayLight : '#d0d0d0';
+$grayMedium : '#565759';
+$grayDark : '#797a7c';

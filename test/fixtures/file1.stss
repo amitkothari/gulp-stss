@@ -1,0 +1,5 @@
+@import "variables.stss";
+
+.container {
+  backgroundColor: $appBackgroundColor;
+}

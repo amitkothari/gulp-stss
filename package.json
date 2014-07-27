@@ -1,0 +1,34 @@
+{
+  "name": "gulp-stss",
+  "version": "0.1.0",
+  "description": "Gulp plugin for stss",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js && node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amitkothari/gulp-stss.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "stss",
+    "tss",
+    "appcelerator",
+    "titanium"
+  ],
+  "author": "Amit Kothari",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "gulp-util": "^2.2.14",
+    "through2": "^0.5.1",
+    "stss": "^0.2.0"
+  },
+  "devDependencies": {
+    "should": "^3.1.3",
+    "mocha": "^1.16.2",
+    "jshint": "^2.4.1"
+  }
+}
