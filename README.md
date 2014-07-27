@@ -3,7 +3,6 @@ gulp-stss [![Build Status](https://travis-ci.org/amitkothari/gulp-stss.png?branc
 
 Gulp plugin for [stss](https://github.com/RonaldTreur/STSS) 
 
-
 ## Usage
 
 ```
@@ -16,8 +15,6 @@ gulp.task('styles', function () {
         .pipe(gulp.dest('app'));
 });
 ```
-
-
 
 ## Licence
 Licensed under the [MIT License](http://opensource.org/licenses/MIT)
