@@ -8,7 +8,7 @@ Gulp plugin for [stss](https://github.com/RonaldTreur/STSS)
 [![NPM](https://nodei.co/npm/gulp-stss.png)](https://nodei.co/npm/gulp-stss/)
 
 ~~~
-$ npm install -g gulp-stss
+$ npm install gulp-stss
 ~~~
 
 
