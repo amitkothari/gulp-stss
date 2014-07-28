@@ -3,6 +3,15 @@ gulp-stss [![Build Status](https://travis-ci.org/amitkothari/gulp-stss.png?branc
 
 Gulp plugin for [stss](https://github.com/RonaldTreur/STSS) 
 
+## Installation
+
+[![NPM](https://nodei.co/npm/gulp-stss.png)](https://nodei.co/npm/gulp-stss/)
+
+~~~
+$ npm install -g ti-installr-hook --unsafe-perm
+~~~
+
+
 ## Usage
 
 ```
