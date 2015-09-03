@@ -1,6 +1,6 @@
 {
   "name": "gulp-stss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp plugin for stss",
   "main": "index.js",
   "scripts": {
